@@ -29,3 +29,24 @@ body {
     transform: translate(-50%, -50%);
     height: 70vh
 }
+
+.vid1 {
+    position: absolute;
+    bottom: 0;
+    display: none
+}
+.vid2 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: none
+}
+.vid3 {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%);
+    height: 20%;
+    width: 20%
+}
+
